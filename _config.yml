@@ -1,0 +1,14 @@
+name: "Mark's Blog"
+
+description: "Mostly Programming"
+
+url: "www.marklusby.com"
+
+paginate: 10
+
+markdown: rdiscount
+
+permalink: pretty
+
+highlights: pygments
+
