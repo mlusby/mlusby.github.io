@@ -1,6 +1,11 @@
 ---
-title: "First Page"
-layout: default
+layout: archive
+permalink: /
+title: "Latest Posts"
 ---
 
-Here's some text
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
