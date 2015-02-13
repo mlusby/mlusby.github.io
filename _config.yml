@@ -4,7 +4,7 @@ description: "A site mostly about brewing and programming"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: dumbteaser.jpg
 locale:
-url: http://localhost:4000
+url: http://www.marklusby.com
 
 # Jekyll configuration
 
