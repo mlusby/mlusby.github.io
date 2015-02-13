@@ -1,11 +1,10 @@
 # Site wide configuration
-
 title: Mark Lusby
 description: "A site mostly about brewing and programming"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: dumbteaser.jpg
 locale:
-url: http://www.marklusby.com
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -17,5 +16,12 @@ markdown: kramdown
 highlighter: pygments
 gems:
   - jekyll-sitemap
+
+# Site owner
+owner: 
+  name: Mark Lusby
+  email: mlusby@gmail.com
+  bio: "Programmer and Brewer"
+  avatar: bio-photo.jpg # 160x160 px image for author byline
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

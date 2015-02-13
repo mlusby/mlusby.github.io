@@ -1,11 +1,11 @@
 ---
-title: "Brewing Archive"
+title: "Programming Archive"
 layout: archive
-permalink: /brewing/
+permalink: /programming/
 ---
 
 <div class="tiles">
-{% for post in site.categories.brewing %}
+{% for post in site.categories.programming %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

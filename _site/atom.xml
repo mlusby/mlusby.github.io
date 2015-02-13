@@ -9,12 +9,12 @@
   <subtitle>A site mostly about brewing and programming</subtitle>
   <link href="http://localhost:4000/atom.xml" rel="self"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-  <updated>2015-02-09T07:34:09-06:00</updated>
+  <updated>2015-02-12T21:45:09-06:00</updated>
   <id>http://localhost:4000/</id>
   <author>
-    <name></name>
+    <name>Mark Lusby</name>
     <uri>http://localhost:4000/</uri>
-    
+    <email>mlusby@gmail.com</email>
   </author>
 
   
@@ -24,15 +24,25 @@
     <updated>2015-02-07T00:00:00-06:00</updated>
     <id>http://localhost:4000/brewing/Brewing-Raspberry-Wit</id>
     <author>
-      <name></name>
+      <name>Mark Lusby</name>
       <uri>http://localhost:4000/</uri>
-      
+      <email>mlusby@gmail.com</email>
     </author>
     <content type="html">
       &lt;img src=&quot;http://localhost:4000/images/raspberries.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;Tomorrow I&#39;m going to be brewing the following:&lt;/p&gt;
 
-&lt;p&gt;A Beer with Raspberries&lt;/p&gt;
+&lt;p&gt;Raspberry Wit:
+Mash at 153 degrees&lt;/p&gt;
+
+&lt;p&gt;9 lbs 2 Row &lt;br /&gt;
+9 lbs Weyer Light Wheat &lt;br /&gt;
+1 oz 8% Tradition (60 min) &lt;br /&gt;
+1 oz Bitter Orange Peel &lt;br /&gt;
+1 oz Corriander  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pitched one packet per carboy of Wyeast 3944 &lt;br /&gt;
+OG: 1.053&lt;/p&gt;
 
     </content>
   </entry>
@@ -43,9 +53,9 @@
     <updated>2015-02-06T00:00:00-06:00</updated>
     <id>http://localhost:4000/programming/Cloning-Made-Mistakes</id>
     <author>
-      <name></name>
+      <name>Mark Lusby</name>
       <uri>http://localhost:4000/</uri>
-      
+      <email>mlusby@gmail.com</email>
     </author>
     <content type="html">
       
